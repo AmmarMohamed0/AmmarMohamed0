@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ammar Mohamed</h1>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hi+There!%F0%9F%91%8B;I'm+Ammar+Mohamed!" alt="Typing SVG" /></a>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ammarmamin&label=Profile%20views&color=0e75b6&style=flat" alt="ammarmamin" /> </p>
 
 <h3 align="left">Connect with me:</h3>
