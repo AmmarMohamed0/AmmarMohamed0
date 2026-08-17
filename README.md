@@ -21,9 +21,9 @@ Hi, I'm Ammar Mohamed, Machine Learning Engineer | Computer Vision | Data Scient
 <br>
 💬 Ask me anything about Computer Vision, AI, or Machine Learning
 <br>
-📫 How to reach me: <a href="mailto:Ammarmohamed0@gmail.com">Ammarmohamed0@gmail.com</a>
+📫 How to reach me: <a href="mailto:ammarmohamedamin0@gmail.com">Ammarmohamed0@gmail.com</a>
 <br>
-📱 Phone: +20 1098413329
+📱 Phone: +49 1521 3641785
 </p>
 
 <hr>
